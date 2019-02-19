@@ -18,7 +18,11 @@ Spectral-Matching Independent Component Analysis Method
 
 ### Planets Correlation Matrix
 
-![Planets Correlation Heatmap](plots/planets_corr.jpg)
+![Planets Correlation Heatmap](plots/planets_corr.png)
+
+### Kernel Density Estimator of Density and Diameter
+
+![Kernel Density Estimator of Density and Diameter](plots/kde.png)
 
 #### Credits
 
