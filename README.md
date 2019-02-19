@@ -16,9 +16,9 @@ Spectral-Matching Independent Component Analysis Method
 
 ![SMICA Plot](plots/CBR.png)
 
-### Commander
+### Planets Correlation Matrix
 
-### NILC
+![Planets Correlation Heatmap](plots/planets_corr.jpg)
 
 #### Credits
 
